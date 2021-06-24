@@ -1,0 +1,178 @@
+body{
+    background: #f4f4f4;
+    margin:0;
+    padding:0;
+}
+.container{
+    width:80%;
+    margin:0 auto;
+    overflow: hidden;
+  
+    }
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background: #143059;
+  
+    color: #ffff;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+
+
+ header a{
+     font-size: 20px;
+     color: #ffff;
+   
+ }
+ header li{
+     display: inline;
+     padding:0 25px;
+
+ }
+ .caption{
+     float: left;
+ }
+ .caption h1{
+     margin: 0;
+ }
+ nav{
+     float: right;
+     margin-top: 10px;
+ }
+ header .she, header .current{
+     color:#F4B41A;
+     font-weight: bold;
+ }
+  header a:hover{
+      color: #cccc;
+      font-weight: bold;
+  }
+#main{
+      min-height: 500px;
+      background-image: url(https://itxitpro.com/front/img/web-development-services.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      color: #ffff; }
+
+#main h1{
+        margin-top: 150px;
+        margin-bottom: 0px;
+        font-size: 70px;
+        font-family :Elephant, cursive;
+    }
+
+#main h2{
+        margin-top: 10px;
+        margin-bottom: 20px;
+        font-size: 70px;
+        font-family: Elephant, cursive;
+}
+#down{
+        padding: 25px;
+        background: #143059;
+
+}
+#logo{
+    margin-top: 20px;
+} 
+#logo .box{
+     float: left;
+      width: 33%;
+      padding-left: 4px;
+     
+   
+    }  
+#logo h3{
+     text-align: center;
+     font-size: 26px;
+     font-weight: bold;
+    padding-right:40px;
+ }
+#logo p{
+  
+    text-align:center;
+    font-size: 18px;
+    font-family:Arial Rounded MT Bold;
+    font-weight: bold;
+    padding-left: 15px;
+}
+ #slogan h1{
+     color: rgb(41, 158, 55);
+     font-size: 55px;
+     text-align: center;
+     margin-top: 70px;
+     margin-bottom: 50px;
+ }
+ #slogan p{
+    font-size: 25px;
+    text-align: center;
+    font-family:Arial Rounded MT Bold;
+  
+ } 
+ #formpart{
+     background-color:bisque;
+     margin-left: 30%;
+     margin-right: 30%;
+     margin-top: 20px;
+     
+
+ }
+ #formpart h3{
+     text-align: center;
+     font-size: 30px;
+     
+}
+ .data{
+     font-size: 20px;
+     color: brown;
+    font-weight: bold;}
+ .boxes{
+    border-radius: 5px;
+    width: 307px;
+    height: 30px;
+    border: ridge;
+
+ }
+ .boxes1{
+    height: 35px;
+    width: 105px;
+    background-color:rgb(248, 220, 185);
+   
+    border-radius: 6px;
+    font-size: 15px;
+    margin-top: 16px;
+  
+ }
+ .boxes1:hover{
+     background-color:rgb(253, 253, 203);
+}
+
+#videopart h2{
+        color: rgb(41, 158, 55);
+        font-size: 55px;
+        text-align: center;
+        margin-top: 70px;
+        margin-bottom: 50px;
+}
+#videopart .video1{
+        margin-top: 25px;
+        width: 100%;
+        margin: 0 auto;
+        text-align:center;
+        padding-bottom: 20px;
+
+}
+footer{
+        background : #143059;
+        padding: 20px;
+        margin-top: 20px;
+       color:white;
+        text-align: center;
+        font-size: 18px;
+    }
+          
+      
